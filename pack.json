@@ -1,0 +1,24 @@
+{
+    "name": "The Blue Smiley Emoticon Modification",
+    "description": "\"Jeez, that's a long title.\"",
+    "contributors": [
+        {
+            "name": "Rozebud",
+            "role": "Music, Code, Sprites, Charting"
+        },
+		{
+			"name": "Cval",
+			"role": "Concept, Charting, Blue Smiley Sprites"
+		},
+		{
+			"name": "Crocidy",
+			"role": "Voice"
+		},
+		{
+			"name": "fluffyhairs",
+			"role": "Logo"
+		}
+    ],
+    "api_version": "1.0.0",
+    "mod_version": "1.0.0"
+}
