@@ -1,3 +1,5 @@
 <songs>
-	<song name="Caeruleum" character="blue" bgColor="#9271FD" difficulties="normal,normal-old" />
+	<song name="Caeruleum" character="blue" difficulties="normal" />
+	<song name="Neurogenesis" character="blue" difficulties="normal" />
+	<song name="Viridis" character="green" difficulties="normal" />
 </songs>

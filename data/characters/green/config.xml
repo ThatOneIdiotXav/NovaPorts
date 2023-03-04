@@ -1,0 +1,15 @@
+<character x="-90" y="320" sprite="green/normal" icon="green" flipX="false" >
+    <anims>
+        <anim name="idle"		anim="Idle"			indices="" fps="24" loop="false"	x="0"	y="0" />
+
+        <anim name="singLEFT" 	anim="Sing Left"	indices="" fps="24" loop="false"	x="86" 	y="2" />
+        <anim name="singDOWN" 	anim="Sing Down"	indices="" fps="24" loop="false"	x="42"	y="-43" />
+        <anim name="singUP" 	anim="Sing Up" 		indices="" fps="24" loop="false"	x="-28"	y="79" />
+        <anim name="singRIGHT" 	anim="Sing Right"	indices="" fps="24" loop="false"	x="0"	y="10" />
+    </anims>
+
+    <scale x="1" y="1" />
+    <scrollFactor x="1" y="1" />
+
+    <healthColor rgb="49,176,209" />
+</character>
