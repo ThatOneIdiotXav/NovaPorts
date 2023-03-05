@@ -17,6 +17,7 @@ function onCreatePost() {
 
 	greenShade.scrollFactor.set(1, 0);
 	picoShade.scrollFactor.set(1, 0);
+	picoShade.cameraOffset.x = -100;
 
 	greenShade.alpha = picoShade.alpha = 0.0001;
 }
@@ -33,9 +34,6 @@ function onStepHit(_) {
 		case 784, 816, 848, 880, 912:
 			goPicoSectionFX_pitchBlack(true);
 	}
-
-	if (_ == 912)
-		picoShade.cameraOffset.x = -100;
 }
 
 function goPicoSectionFX_start() {

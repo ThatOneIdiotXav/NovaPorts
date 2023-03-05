@@ -67,7 +67,7 @@ function onUpdate(_) {
 		shadeFE.hset('effectTime', shadeFEEffectTime);
 	}
 
-	g_f.alpha = FlxMath.lerp(g_f.alpha, 0, _ * 10);
+	g_f.alpha = FlxMath.lerp(g_f.alpha, 0, _ * 8);
 }
 
 function onBeatHit(_) {
