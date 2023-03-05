@@ -1,0 +1,20 @@
+<character x="5" y="290" sprite="pico-shadow" deathCharacter="pico" icon="green" flipX="true" isPlayer="true">
+    <anims>
+        <anim name="idle"			anim="Idle"			fps="24" loop="false"	x="0"	y="0" />
+
+        <anim name="singLEFT" 		anim="Sing Left"	fps="24" loop="false"	x="83" 	y="-11" />
+        <anim name="singDOWN" 		anim="Sing Down"	fps="24" loop="false"	x="93"	y="-78" />
+        <anim name="singUP" 		anim="Sing Up" 		fps="24" loop="false"	x="19"	y="29" />
+        <anim name="singRIGHT" 		anim="Sing Right"	fps="24" loop="false"	x="-50"	y="0" />
+
+		<anim name="singLEFTmiss"	anim="Miss Left"	fps="24" loop="false"	x="78" 	y="28" />
+		<anim name="singDOWNmiss"	anim="Miss Down"	fps="24" loop="false"	x="85" 	y="-34" />
+		<anim name="singUPmiss"		anim="Miss Up"		fps="24" loop="false"	x="20" 	y="57" />
+		<anim name="singRIGHTmiss"	anim="Miss Right"	fps="24" loop="false"	x="-43"	y="51" />
+    </anims>
+
+    <scale x="1" y="1" />
+    <scrollFactor x="1" y="1" />
+
+    <healthColor hex="#6FD800"/>
+</character>

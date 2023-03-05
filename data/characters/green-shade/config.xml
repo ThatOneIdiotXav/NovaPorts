@@ -1,4 +1,4 @@
-<character x="-90" y="320" sprite="green/normal" icon="green" flipX="false" >
+<character x="-90" y="320" sprite="green/shade" icon="green" flipX="false" >
     <anims>
         <anim name="idle"		anim="Idle"			indices="" fps="24" loop="false"	x="0"	y="0" />
 

@@ -1,0 +1,32 @@
+{
+	"options": [
+		{
+			"name": "FPSUI",
+			"value": true
+		},
+		{
+			"name": "Shaders",
+			"value": true
+		},
+		{
+			"name": "ShowTitle",
+			"value": true
+		},
+		{
+			"name": "ShowArtistInTitle",
+			"value": true
+		},
+		{
+			"name": "FPSNoteGlow",
+			"value": false
+		},
+		{
+			"name": "FPSNoteGlowIntensity",
+			"value": 75
+		},
+		{
+			"name": "FPSNoteGlowLerp",
+			"value": false
+		}
+	]
+}
