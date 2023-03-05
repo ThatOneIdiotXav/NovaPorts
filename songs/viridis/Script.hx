@@ -17,7 +17,8 @@ function onCreatePost() {
 
 	greenShade.scrollFactor.set(1, 0);
 	picoShade.scrollFactor.set(1, 0);
-	picoShade.cameraOffset.x = -100;
+	greenShade.cameraOffset.x = 100;
+	picoShade.cameraOffset.x = -300;
 
 	greenShade.alpha = picoShade.alpha = 0.0001;
 }
