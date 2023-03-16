@@ -1,6 +1,4 @@
 function onCreatePost() {
-	camGame.followLerp = 120 / FlxG.updateFramerate;
-
 	if (SettingsAPI.get(mod + ":FPSUI")) {
 		scoreTxt.setPosition(scoreTxt.x, FlxG.height - scoreTxt.height - 20);
 		scoreTxt.size = 22;
